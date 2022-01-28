@@ -1,0 +1,22 @@
+---
+title: "Week2_Notes"
+author: "SLCornett"
+date: "1/27/2022"
+output: html_document
+---
+**WOWOWOWOW LOOK AT THIS**
+```{r}
+B<-c("bananas")
+```
+
+
+```{r}
+print(B)
+```
+
+
+
+```{r}
+
+```
+
