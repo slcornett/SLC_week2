@@ -6,12 +6,12 @@ output: html_document
 ---
 **WOWOWOWOW LOOK AT THIS**
 ```{r}
-X<-c("bananas")
+B<-c("bananas")
 ```
 
 
 ```{r}
-print(X)
+print(B)
 ```
 
 
