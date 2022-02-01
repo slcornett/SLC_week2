@@ -6,13 +6,11 @@ output: html_document
 ---
 **WOWOWOWOW LOOK AT THIS**
 ```{r}
-B<-c("bananas")
 X<-c("bananas")
 ```
 
 
 ```{r}
-print(B)
 print(X)
 ```
 
